@@ -19,6 +19,7 @@ Launching a bike sharing services in a metropolitan area can turn into a profita
 ## Further Analysis
 From a health and safety perspective, it should be noted that users of bike sharing services tend to enjoy dropping bicycles off at various locations and thus can potentially become a danger for the health and safery of the general population. Additional discovery work is needed in order to identify areas where accidents are likely to occur (due to shart turns, narrow pathways, busy intersections, etc.). It is also important to come up with a system that alerts service managers when bicycles are due for repairs. Further analysis needs to take place in order to figure out best hours for bike maintenance and regular maintenance cycles. 
 
-## Software Used:
-Jupyter Notebooks (python 3)
-Tableau Public
+## Software Used: <br>
+Jupyter Notebooks <br>
+Python 3 <br>
+Tableau Public <br>
